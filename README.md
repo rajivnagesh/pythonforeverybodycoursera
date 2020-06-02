@@ -1,6 +1,6 @@
-Python For Everybody | University of Michigan
+# Python For Everybody | University of Michigan
 
-Author : Rajiv Nagesh
+# Author : Rajiv Nagesh
 
 All the graded assignments with their questions are in this repository.
 
